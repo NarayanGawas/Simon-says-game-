@@ -5,7 +5,8 @@ Test your memory by repeating the color sequence as long as you can!
 
 ---
 ## 📸 Preview
-<img width="1920" height="1200" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/b5f9f13e-4cd3-4a1f-b5b6-63a102c43864" />
+ <img width="1869" height="1013" alt="Screenshot 2025-07-23 190353" src="https://github.com/user-attachments/assets/186b2dfb-e3db-4eb3-a6e7-4850b025c0e3" />
+
 ---
 
 ## 🎮 How to Play
