@@ -16,3 +16,18 @@ Test your memory by repeating the color sequence as long as you can!
 3. Repeat the sequence by clicking the buttons in the correct order.
 4. With each level, the sequence gets longer.
 5. Make one mistake, and it's **Game Over**!
+
+## 🛠️ Tech Stack
+
+| Technology | Description             |
+|------------|-------------------------|
+| HTML5      | Structure of the game   |
+| CSS3       | Styling & animations    |
+| JavaScript | Game logic & interaction|
+
+## ✅ Features
+- 🔄 Level progression
+- 🎨 Color flash animations
+- 🔔 Sound feedback (optional to add)
+- 📱 Mobile responsive design
+  
